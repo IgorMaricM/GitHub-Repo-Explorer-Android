@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GitHub repo explorer</string>
+    <string name="repo_details">Repo details</string>
+    <string name="loading_repository_data">Loading repository data...</string>
+    <string name="repository_data_is_missing">Repository data is missing!</string>
+    <string name="remove_from_favorites">Remove from favorites</string>
+    <string name="add_to_favorites">Add to favorites</string>
+    <string name="toggle_favorite">Toggle favorite</string>
+    <string name="contributors">Contributors</string>
+    <string name="open_in_browser">Open in Browser</string>
+    <string name="updated">Updated</string>
+    <string name="created">Created</string>
+    <string name="default_branch">Default Branch</string>
+</resources>
